@@ -1,5 +1,8 @@
 # Kirasystems
 new repo
-Hi Derek
-
-I am using this medium to sharpen my python skills as it will be required for the TSA role
+TSA
+Participate in QA for each new release
+Supporting our infrastructure and application
+Supporting client-hosted installations of our software
+Documenting client questions and incidents
+Teach new Kira users about our product via online training sessions
